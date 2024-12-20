@@ -1,4 +1,4 @@
-# *Mapty APP*
+# *GeoAPP*
 
 ## **User story : Description of the application's functionality from the user's perspective**
 
@@ -29,3 +29,8 @@
 ### *Store workout data in the browser using local storage API*
 
 ### *On page load, read the saved data from local storage and display*
+
+## **Flowchart**
+
+![Flowchart Diagram](./Mapty-flowchart.png)
+
