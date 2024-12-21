@@ -32,5 +32,5 @@
 
 ## **Flowchart**
 
-![Flowchart Diagram](./Mapty-flowchart.png)
+![Flowchart Diagram](./App-flowchart.png)
 
