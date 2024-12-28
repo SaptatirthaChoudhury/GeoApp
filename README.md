@@ -30,7 +30,7 @@
 
 ### *On page load, read the saved data from local storage and display*
 
-## **Flowchart**
+## **Flowchart :**
 
 ![Flowchart Diagram](./App-flowchart.png)
 
